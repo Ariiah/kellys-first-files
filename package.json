@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ariiah/kellys-first-files/issues"
   },
-  "homepage": "https://github.com/Ariiah/kellys-first-files#readme"
+  "homepage": "https://github.com/Ariiah/kellys-first-files#readme",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
 }

@@ -59,3 +59,6 @@ typings/
 
 #macOS junk
 DS_Store
+
+#package-lock
+package-lock.json
